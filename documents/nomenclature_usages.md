@@ -77,7 +77,7 @@ Ex : données DFCI pour l’organisation des secours
 
 Dans le cadre de la mission du GT QuaDoGéo sur la qualification des données géographiques, il est  assez rapidement apparu la nécessité de qualifier également les usages potentiels d’une donnée.
 
-Le sous-groupe (Jérôme Boutet, Stéphane Rolle, Jean-Marie Arsac) s’est donc attelé à la tâche avec enthousiasme sans se douter de sa difficulté.
+Le sous-groupe (@jerbou, @stephanerolle, @jmarsac) s’est donc attelé à la tâche avec enthousiasme sans se douter de sa difficulté.
 
 Après avoir essayé différentes approches sur la question et consulté les nomenclatures ou listes d’usages à notre disposition, nous nous sommes rendus compte qu’une simple classification par thème n’était pas satisfaisante et qu’un usage était défini par un couple thème/action.
 
